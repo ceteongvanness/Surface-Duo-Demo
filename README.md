@@ -8,3 +8,5 @@
 
 [Use the Surface Duo emulator](https://docs.microsoft.com/en-us/dual-screen/android/use-emulator?tabs=java)
 
+[Android Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
