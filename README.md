@@ -13,3 +13,5 @@
 [Material Design typography guidelines](https://material.io/design/typography/#typography-styles)
 
 [Material Design color palette](https://material.io/design/color/the-color-system.html)
+
+[AbhiAndroid - Learn Android UI](https://abhiandroid.com/ui/xml)
