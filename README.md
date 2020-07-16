@@ -1,4 +1,4 @@
-**Setup**
+**Setup Guideline**
 
 [Setup Surface Duo Emulator Preview - Android Studio](https://ceteongvanness.wordpress.com/2020/01/24/setup-surface-duo-emulator-android-studio-part-1/?fbclid=IwAR3y6NJSZz3qeCRrJg-huw6cn1_AZbpAJ9v49A3omD3LAFHxd7kCaghfAHY)
 
