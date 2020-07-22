@@ -19,3 +19,10 @@
 [Styling Android blog](https://blog.stylingandroid.com/)
 
 [Chris Banes' blog](https://chris.banes.dev/)
+
+[How to install sqlite (SQLite3) on windows 10](https://youtu.be/zOJWL3oXDO8)
+
+1. Download the correct Zip files.
+2. Create a folder called C:\sqlite to extract them into.
+3. Add C:\sqlite to your PATH environment variable.
+4. Run the sqlite3 command on your command prompt.
