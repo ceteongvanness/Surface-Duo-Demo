@@ -26,3 +26,5 @@
 2. Create a folder called C:\sqlite to extract them into.
 3. Add C:\sqlite to your PATH environment variable.
 4. Run the sqlite3 command on your command prompt.
+
+[Datatypes In SQLite Version 3](https://www.sqlite.org/datatype3.html)
